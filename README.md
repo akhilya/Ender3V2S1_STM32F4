@@ -3,5 +3,5 @@ Used platformio with [some special build flags](https://ufj.ddns.net/blog/marlin
 - T1 + LA
 - T1 + UBL + LA
 - T13 + UBL + LA
-- T13 + LA
+- T13 + LA (HEATER_0_MAXTEMP = 315)
 - T13 + LA + MPC
