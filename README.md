@@ -5,4 +5,4 @@ Used platformio with [some special build flags](https://ufj.ddns.net/blog/marlin
 - T13 + UBL + LA
 - T13 + LA (HEATER_0_MAXTEMP = 315, BED_MAXTEMP = 135)
 - T13 + LA + MPC
-- T13 + LA + DACAI (HEATER_0_MAXTEMP = 315, BED_MAXTEMP = 135)
+- T13 + LA + DACAI (HEATER_0_MAXTEMP = 315, BED_MAXTEMP = 130)
